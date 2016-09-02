@@ -1,0 +1,6 @@
+com.flytxt.yesbank.db.connection
+com.flytxt.yesbank.db.model
+com.flytxt.yesbank.mapper
+com.flytxt.yesbank.processor
+com.flytxt.yesbank.test
+com.flytxt.yesbank.utils
